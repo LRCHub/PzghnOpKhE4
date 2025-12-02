@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Jingle Bell Rock",
+  "base_artist": "aespa",
+  "createdAt": "2025-12-02T08:07:05.257975Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Girls Aloud",
+      "has_synced": true,
+      "path": "select/01_Jingle_Bell_Rock_Girls_Aloud.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/02_Jingle_Bell_Rock_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock / The Christmas Song",
+      "artist": "Debbie Gibson",
+      "has_synced": true,
+      "path": "select/03_Jingle_Bell_Rock___The_Christmas_Song_Debbie_Gibson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Cascada",
+      "has_synced": true,
+      "path": "select/04_Jingle_Bell_Rock_Cascada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Wayne Newton",
+      "has_synced": true,
+      "path": "select/05_Jingle_Bell_Rock_Wayne_Newton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Jessie J",
+      "has_synced": true,
+      "path": "select/06_Jingle_Bell_Rock_Jessie_J.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Hilary Duff",
+      "has_synced": true,
+      "path": "select/07_Jingle_Bell_Rock_Hilary_Duff.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/08_Jingle_Bell_Rock_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock (Glee Cast Version)",
+      "artist": "Glee Cast",
+      "has_synced": true,
+      "path": "select/09_Jingle_Bell_Rock_(Glee_Cast_Version)_Glee_Cast.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock (Daryl's Version)",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": true,
+      "path": "select/10_Jingle_Bell_Rock_(Daryl's_Version)_Daryl_Hall_&_John_Oates.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock (Daryl's Version)",
+      "artist": "Hall & Oates",
+      "has_synced": true,
+      "path": "select/11_Jingle_Bell_Rock_(Daryl's_Version)_Hall_&_Oates.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Bobby Helms",
+      "has_synced": true,
+      "path": "select/12_Jingle_Bell_Rock_Bobby_Helms.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock (Single Version)",
+      "artist": "Bobby Helms",
+      "has_synced": true,
+      "path": "select/13_Jingle_Bell_Rock_(Single_Version)_Bobby_Helms.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Bobby Helms",
+      "has_synced": true,
+      "path": "select/14_Jingle_Bell_Rock_Bobby_Helms.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jingle Bell Rock",
+      "artist": "Bobby Helms",
+      "has_synced": true,
+      "path": "select/15_Jingle_Bell_Rock_Bobby_Helms.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Jingle Bell Rock",
+      "artist": "aespa",
+      "has_synced": false,
+      "path": "select/pl_01_Jingle_Bell_Rock_aespa.txt"
+    }
+  ]
+}
